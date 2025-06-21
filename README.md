@@ -1,6 +1,6 @@
 # DIGIBHEM
 Internship Tasks - Digital Bhem (April 2025 - June 2025)
-# Task 1 - Number Guessing Game 🎮
+# Task 2 - Number Guessing Game 🎮
 
 This is a web-based number guessing game built using **HTML, CSS, and JavaScript**.
 
